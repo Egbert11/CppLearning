@@ -6,7 +6,6 @@ output/
 *.obj
 
 # Editor/OS
-.vscode/
 *.log
 .DS_Store
 Thumbs.db
