@@ -1,0 +1,12 @@
+# Build artifacts
+CppLearning.exe
+/build/
+output/
+*.o
+*.obj
+
+# Editor/OS
+.vscode/
+*.log
+.DS_Store
+Thumbs.db
